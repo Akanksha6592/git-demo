@@ -4,4 +4,5 @@
 2. Implement Git
 3. Verify
 4. Done
-5. Push on Branch
+5. Push on Remote
+6. Push Successfully
